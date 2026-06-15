@@ -1,0 +1,51 @@
+                CLASS 1 (DOM Basis)
+
+DOM = Documnet object model 
+Their Types = Document, Events , DOM API's
+BOM = Browser object model
+Their Types= console , history , navigator , window , location
+WEB API's
+= 
+Javascript
+Variable , Arrays , Objects , Promises , 
+
+
+
+Behind the scene working in brosers - 
+1. browser is proporation to server
+       HTML
+2. browser ke pass html ka code string ke form me aate hai
+3. firr parsing hoti hai jo ki isse convert karta hai 
+4. Tree ban gaya or its known as DOM Tree
+
+
+        CSS
+1. String ke form me data aaya
+2. parsing hui firr conver hui 
+3. CSSOM ban gayi (CSS Object Model)
+
+
+        DOM Tree + CSSOM = Render Tree
+
+
+            DOM Tree
+Tree - HTML (ROOT NODE)
+
+html ke andar aayga HTMl or BODY jo ki hote hai NODE
+
+
+
+                Render Tree is made by DOM Tree or CSSOM
+
+
+
+
+JS ko html se connect karwata hai DOM.
+DOM ka kaam convert karna HTMl ko object me or de dena JS ko.
+
+
+
+
+
+                CLASS 2
+

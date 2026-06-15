@@ -1,0 +1,10 @@
+Browser takes html file convert into object and give to the JS and that's known as DOM.
+
+Tree = Node = HTML , text , 
+
+Nodelist VS HTML Collection dono  array ki tarah dekhte hai.
+
+
+childNodes = NodeList  &  children = HTML Collection
+
+Nodelist ye sabhi cheezo ko node me count karta hai. sabhi cheex jese = blank space, while spaces,  
